@@ -1,30 +1,30 @@
 # Inside the Industry — 12-Week Target Company Pipeline
 
-This curated 12-week pipeline provides students with broad exposure across the life sciences computational spectrum, spanning Indian biotech innovators, global genomics giants, AI-driven drug discovery platforms, clinical diagnostics, and cloud bioinformatics infrastructure.
+This curated 12-week pipeline provides students with broad exposure across the life sciences computational spectrum. It balances global genomics giants with high-impact startups and enterprises that have a heavy presence in the **Bengaluru** biotech hub, ensuring students can easily connect, network, and engage with local industry practitioners.
 
 ---
 
 ## The 12-Week Curriculum Schedule
 
-| Week | Company | Headquarters | Sector / Focus | Core Learning Theme |
+| Week | Company | Headquarters / Key Hubs | Sector / Focus | Core Learning Theme |
 |:---:|:---|:---|:---|:---|
-| **1** | **MedGenome** | Bengaluru, India / Foster City, USA | Clinical Genomics & NGS Services | High-throughput sequencing workflows, population genomics in South Asia, variant classification in clinical diagnostics. |
-| **2** | **Strand Life Sciences** | Bengaluru, India | Clinical Diagnostics & Bioinformatics Software | Transition from algorithm development to clinical testing; panel design, PoN (Panel of Normals), bioinformatics pipeline validation. |
-| **3** | **10x Genomics** | Pleasanton, CA, USA | Single-Cell & Spatial Biology | Single-cell RNA sequencing (scRNA-Seq), droplet microfluidics, Cell Ranger pipeline, high-dimensional transcriptomics data. |
-| **4** | **Insilico Medicine** | Hong Kong / New York, USA | Generative AI & Drug Discovery | Generative adversarial networks (GANs) and transformers for de novo molecule design, target identification (Pharma.AI). |
-| **5** | **Illumina** | San Diego, CA, USA | Sequencing Platforms & Secondary Analysis | Sequencing-by-synthesis (SBS), BCL to FASTQ conversion, DRAGEN FPGA-accelerated secondary analysis pipelines. |
-| **6** | **Mapmygenome** | Hyderabad, India | Preventative Genomics & Direct-to-Consumer | Genetic counseling, preventative risk profiling, consumer-facing variant reporting, privacy and data storage. |
-| **7** | **Recursion Pharmaceuticals** | Salt Lake City, UT, USA | Phenomics & Automated Biology | High-content cellular imaging (phenomics), computer vision for cellular morphology, massive wet-lab automation. |
-| **8** | **DNAnexus** | Mountain View, CA, USA | Cloud Genomics & Secure Data Ecosystems | Cloud-native workflow orchestration (WDL/Nextflow), compliance (HIPAA, GxP), UK Biobank scale data infrastructure. |
-| **9** | **Bugworks Research** | Bengaluru, India / Delaware, USA | Antimicrobial Resistance & Therapeutics | Structure-based drug design, computational modeling of bacterial efflux pumps, novel antibiotic target discovery. |
-| **10** | **Nanopore Technologies (ONT)** | Oxford, UK | Long-Read Real-Time Sequencing | Nanopore electrical current measurement, basecalling neural networks (Dorado/Guppy), real-time metagenomic analysis. |
-| **11** | **Enveda Biosciences** | Boulder, CO, USA / Hyderabad, India | Metabolomics & Natural Product Drug Discovery | Mass spectrometry metabolomics, machine learning for chemical space navigation, plant-based bioactive discovery. |
-| **12** | **Tempus Labs** | Chicago, IL, USA | Precision Oncology & Clinical Multimodal AI | Multimodal data integration (clinical records + pathology images + genomic sequencing) for clinical trial matching. |
+| **1** | **MedGenome** | Bengaluru, India | Clinical Genomics & NGS Services | High-throughput sequencing workflows, population genomics in South Asia, variant classification in diagnostics. |
+| **2** | **Illumina** | San Diego, USA | Sequencing Platforms & Secondary Analysis | Sequencing-by-synthesis (SBS), BCL to FASTQ conversion, DRAGEN FPGA-accelerated secondary analysis. |
+| **3** | **Mapmygenome** | Hyderabad, India | Preventative Genomics & Direct-to-Consumer | Genetic counseling, preventative risk profiling, consumer-facing variant reporting, privacy and data storage. |
+| **4** | **Foundation Medicine** | Cambridge, USA (*Roche Group*) | Comprehensive Genomic Profiling (CGP) | Somatic cancer genomics, pan-tumor NGS panels, FDA-approved companion diagnostics. |
+| **5** | **Cellworks** | San Jose, USA / **Bengaluru, India** | Biosimulation & Precision Oncology | Computational modeling of tumor networks, predicting patient-specific biomarker responses to therapies. |
+| **6** | **10x Genomics** | Pleasanton, USA | Single-Cell & Spatial Biology | Single-cell RNA sequencing (scRNA-Seq), droplet microfluidics, Cell Ranger pipeline, high-dimensional transcriptomics. |
+| **7** | **Leucine Rich Bio** | **Bengaluru, India** | Microbiome Genomics *(Startup)* | Metagenomics pipelines (BugSpeaks), 16S vs WMS sequencing, connecting gut microbiome data to clinical outcomes. |
+| **8** | **DNAnexus** | Mountain View, USA | Cloud Genomics & Secure Data Ecosystems | Cloud-native workflow orchestration (WDL/Nextflow), compliance (HIPAA, GxP), UK Biobank scale data infrastructure. |
+| **9** | **QIAGEN Digital Insights** | Hilden, DE / **Bengaluru, India** | Bioinformatics Software & Data Bases | Secondary/tertiary analysis (CLC Genomics, QCI), literature curation workflows, commercial software engineering. |
+| **10** | **Elucidata** | New Delhi / **Bengaluru, India** | Biomedical Data Engineering *(Startup)* | Data harmonization (Polly), bulk RNA-seq repository processing, semantic metadata tagging, and LLMs in biology. |
+| **11** | **Bionivid** | **Bengaluru, India** | Bioinformatics Services *(Startup)* | Multi-omics data science consulting, rapid pipeline prototyping, and working directly as bioinformatics service providers. |
+| **12** | **Ginkgo Bioworks** | Boston, USA | Synthetic Biology & Codebase Foundry | Programming cells, extreme-scale LIMS automation, synthetic biology, and biosecurity software. |
 
 ---
 
 ## Selection Criteria & Variety Principles
 
-1. **Geographic Balance:** Integrates local Indian biotech ecosystems (Bengaluru, Hyderabad) with international industry leaders.
-2. **Technological Diversity:** Exposes students to NGS secondary analysis, long-read sequencing, single-cell spatial biology, molecular docking, and multimodal clinical AI.
-3. **Business Model Contrast:** Compares contract service labs, software platforms, pure R&D biotechs, and diagnostic testing providers.
+1. **Local Connections (Bengaluru Anchor):** 6 out of 12 companies (MedGenome, Elucidata, Cellworks, QIAGEN, Leucine Rich Bio, Bionivid) have massive engineering or R&D hubs in Bengaluru / India. This makes it much easier for students to tag employees on LinkedIn and build real-world mentorship networks.
+2. **Startups to Enterprises:** Incorporates accessible scaling startups (Leucine Rich Bio, Bionivid, Elucidata) alongside mid-sized pioneers (Cellworks) and massive corporate infrastructure (Illumina, Foundation Medicine, QIAGEN).
+3. **Technological Diversity:** Exposes students to NGS secondary analysis, synthetic biology scaling, single-cell spatial biology, commercial software platforms, and NLP/LLMs for biomedical data engineering.

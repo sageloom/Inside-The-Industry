@@ -15,8 +15,7 @@ No information is discarded — everything goes into the blog. LinkedIn gets the
 
 - **`sops/`**: The operational machinery for running these cycles.
   - `Sageloom_Inside_the_Industry_Plan.md`: The strategic overview of the initiative.
-  - `Sageloom_Universal_Company_Research_Template.md`: The base template students use to structure their analysis.
-  - `Student_Company_Intake_Template.md`: The form students complete when selecting a company.
+  - `Sageloom_Universal_Company_Research_Template.md`: The research framework students fill in for each company.
   - `Research_Validation_Rubric.md`: The grading/validation criteria for student submissions.
   - `Blog_Post_Template.md`: Full-length blog post framework for the website (long-form output).
   - `LinkedIn_Post_Template.md`: Short-form LinkedIn post framework with blog link (short-form output).

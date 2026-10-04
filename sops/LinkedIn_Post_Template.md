@@ -12,10 +12,12 @@ All LinkedIn posts published under this initiative must adhere to Sageloom's cor
 ## 1. Post Structure & Anatomy
 
 ```markdown
-🔬 [Deconstructing Biotech #WeekNumber] | How [Company Name] Connects [Biological Focus] to [Computational Tool/Tech]
+🔬 [Inside the Industry #WeekNumber] | How [Company Name] Connects [Biological Focus] to [Computational Tool/Tech]
 
-Most people think [Common misconception about this company or biological problem].
-In reality, the core bottleneck is [Fundamental biological/data challenge].
+[HOOK: Start with a strong, attention-grabbing statement. VARY YOUR HOOKS each week so posts don't sound formulaic. Examples:
+- A misconception: "Most people think [misconception]. In reality, [truth]."
+- A surprising scale: "A single run produces X terabytes of data. Here is why that breaks standard pipelines."
+- A counter-intuitive challenge: "The hardest part of [domain] isn't [obvious thing]. It's [technical bottleneck]."]
 
 This week, our student research cohort at Sageloom Analytics deconstructed [Company Name] (@Company LinkedIn Handle) to understand how production-grade bioinformatics drives their product.
 
