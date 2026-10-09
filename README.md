@@ -1,8 +1,18 @@
 # Inside the Industry
 
-This directory contains the operational framework and output for the "Inside the Industry" initiative, where students analyze actual biotech companies.
+Welcome to the **Inside the Industry** initiative! This directory contains the guidelines, operational framework, and outputs for evaluating and deconstructing actual biotech and bioinformatics companies in the industry.
 
-## Dual-Output Model
+## 🎓 For Students & Researchers
+If you are a student participating in a research cycle, you will start by understanding real companies and discovering how their scientific, technical, and business components connect. 
+
+**Your Quick Links:**
+1. **[Company Research Template](sops/Sageloom_Universal_Company_Research_Template.md):** The master template you must use to document your findings.
+2. **[Student Submission Guide](sops/Student_Submission_Guide.md):** Step-by-step instructions on how to format and submit your final work via Issue tracking. read this before submitting!
+3. **[Research Validation Rubric](sops/Research_Validation_Rubric.md):** See precisely how your research submission will be graded and validated by our team.
+
+---
+
+## 🚀 Dual-Output Model
 
 Each company analysis cycle produces **two deliverables** from the same research:
 
