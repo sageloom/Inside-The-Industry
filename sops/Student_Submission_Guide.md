@@ -7,7 +7,7 @@ We use **Issue Tracking** to manage submissions. This mimics the standard workfl
 ## 1. What You Need to Submit
 
 Before creating an issue, you must complete your research using the provided template:
-* Follow the [Sageloom Universal Company Research Template](../sops/Sageloom_Universal_Company_Research_Template.md).
+* Follow the [Sageloom Universal Company Research Template](./Sageloom_Universal_Company_Research_Template.md).
 * Make sure you have reviewed the **Minimum Standard Before Submission** checklist at the bottom of the template.
 
 ## 2. How to Submit Your Analysis

@@ -22,7 +22,7 @@ If you are a student participating in a research cycle, you will start by unders
 
 ---
 
-> 🛑 **NOTE TO STUDENTS:** The sections below detail Sageloom Analytics' internal operating machinery. You do not need to read past this point! But feel free to explore..
+> 🛑 **NOTE TO STUDENTS:** The sections below detail Sageloom Analytics' internal operating machinery. You do not need to read past this point! But feel free to explore.
 
 ## 🔒 Internal Operations: Dual-Output Model
 
