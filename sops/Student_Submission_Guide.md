@@ -31,21 +31,18 @@ Copy and paste the entire contents of your completed `Sageloom_Universal_Company
 
 Please make sure you keep the Markdown formatting intact (like headings `##` and lists `-`), as this allows both human mentors and AI review agents to parse your data accurately.
 
-### Step 4: Add Labels (If Applicable)
-If you have the permission to do so, add the `submission` or `review-pending` label to your issue.
-
-### Step 5: Submit
+### Step 4: Submit
 Click **Submit new issue**.
 
 ## 3. What Happens Next?
 
 Once you submit your issue:
-1. **Initial Review**: Your submission will be read by our team (and processed by our internal AI agents). 
+1. **Initial Review**: Your submission will be read and processed by our team. 
 2. **Feedback Loop**: We will leave comments directly on your Issue if any clarifications or revisions are needed. You will receive notifications when we comment.
 3. **Drafting Deliverables**: Approved research is synthesized into:
-   - A Long-Form Blog Post for the Sageloom website.
-   - A LinkedIn Highlight post.
-4. **Final Publication**: We publish the deliverables, fully attributing your hard work as the student researcher!
+   - A Long-Form Blog Post broadcasted via the Sageloom website.
+   - A LinkedIn Highlight post, with proper tagging of all contributors and their institutes.
+4. **Final Publication**: We publish the deliverables, fully attributing your group's hard work as student researchers!
 
 ## Troubleshooting
 
