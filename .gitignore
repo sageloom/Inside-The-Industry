@@ -1,1 +1,7 @@
-cycles/cycle-01-medgenome/
+# Ignore execution data and draft analysis cycles
+# (Students will create their own submission issues instead)
+cycles/*/
+
+# Ignore local AI agent cache
+.paperclip-repositories/
+.claude/
