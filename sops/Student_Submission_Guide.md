@@ -20,11 +20,11 @@ Go to the **Issues** tab in this repository and click the **New Issue** button.
 ### Step 2: Format the Issue Title
 To help our review team (and our AI review agents) easily identify and process your submission, your issue title **MUST** follow this exact format:
 
-`[Submission] Cycle <Number> - <Company Name> - <Your First and Last Name>`
+`[Submission] Cycle <Number> - <Company Name> - Group <Number>`
 
 > **Example Titles:**
-> * `[Submission] Cycle 1 - MedGenome - Jane Doe`
-> * `[Submission] Cycle 2 - Illumina - John Smith`
+> * `[Submission] Cycle 1 - MedGenome - Group 1`
+> * `[Submission] Cycle 2 - Illumina - Group 4`
 
 ### Step 3: Fill in the Issue Body
 Copy and paste the entire contents of your completed `Sageloom_Universal_Company_Research_Template.md` file into the description (body) area of the issue.

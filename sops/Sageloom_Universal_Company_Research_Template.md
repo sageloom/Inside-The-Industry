@@ -8,7 +8,8 @@ Use this template to investigate a company and understand how its scientific, te
 
 > **Initiative:** Inside the Industry — Sageloom Analytics
 > **Cycle / Week:** [ e.g. Week 1 ]
-> **Student Investigator(s):** [ Name(s), University / Department ]
+> **Group Number:** [ e.g. Group 1 ]
+> **Student Investigator(s):** [ List all group members' Names, University / Department ]
 > **Assigned Company:** [ Company Name ]
 > **Date Submitted:** [ YYYY-MM-DD ]
 
