@@ -6,9 +6,10 @@ Welcome to the **Inside the Industry** initiative! This directory contains the g
 If you are a student participating in a research cycle, you will start by understanding real companies and discovering how their scientific, technical, and business components connect. 
 
 **Your Quick Links:**
-1. **[Company Research Template](sops/Sageloom_Universal_Company_Research_Template.md):** The master template you must use to document your findings.
-2. **[Student Submission Guide](sops/Student_Submission_Guide.md):** Step-by-step instructions on how to format and submit your final work via Issue tracking. Read this before submitting!
-3. **[Research Validation Rubric](sops/Research_Validation_Rubric.md):** See precisely how your research submission will be graded and validated by our team.
+1. **[12-Week Company Pipeline](sops/Company_Pipeline_12_Weeks.md):** The curated list of companies scheduled for analysis. Check here to see which company your group is researching!
+2. **[Company Research Template](sops/Sageloom_Universal_Company_Research_Template.md):** The master template you must use to document your findings.
+3. **[Student Submission Guide](sops/Student_Submission_Guide.md):** Step-by-step instructions on how to format and submit your final work via Issue tracking. Read this before submitting!
+4. **[Research Validation Rubric](sops/Research_Validation_Rubric.md):** See precisely how your research submission will be graded and validated by our team.
 
 ---
 
