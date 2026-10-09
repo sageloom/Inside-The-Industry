@@ -66,3 +66,11 @@ Board Approval (both submitted together)
 Publish to   Publish to
 Website      LinkedIn
 ```
+
+---
+
+## 📜 License & Attribution
+
+All content, educational frameworks, and student analyses in this repository are released under the **[Creative Commons Attribution 4.0 International (CC BY 4.0) License](LICENSE)**. 
+
+You are completely free to **read, reuse, share, and adapt** this content for your own purposes, provided that you give appropriate credit to **Sageloom Analytics** and link back to this original project repository.
