@@ -7,12 +7,14 @@ If you are a student participating in a research cycle, you will start by unders
 
 **Your Quick Links:**
 1. **[Company Research Template](sops/Sageloom_Universal_Company_Research_Template.md):** The master template you must use to document your findings.
-2. **[Student Submission Guide](sops/Student_Submission_Guide.md):** Step-by-step instructions on how to format and submit your final work via Issue tracking. read this before submitting!
+2. **[Student Submission Guide](sops/Student_Submission_Guide.md):** Step-by-step instructions on how to format and submit your final work via Issue tracking. Read this before submitting!
 3. **[Research Validation Rubric](sops/Research_Validation_Rubric.md):** See precisely how your research submission will be graded and validated by our team.
 
 ---
 
-## 🚀 Dual-Output Model
+> 🛑 **NOTE TO STUDENTS:** The sections below detail Sageloom Analytics' internal operating machinery. You do not need to read past this point!
+
+## 🔒 Internal Operations: Dual-Output Model
 
 Each company analysis cycle produces **two deliverables** from the same research:
 
@@ -21,7 +23,7 @@ Each company analysis cycle produces **two deliverables** from the same research
 
 No information is discarded — everything goes into the blog. LinkedIn gets the hook.
 
-## Structure
+## 🔒 Internal Operations: Directory Structure
 
 - **`sops/`**: The operational machinery for running these cycles.
   - `Sageloom_Inside_the_Industry_Plan.md`: The strategic overview of the initiative.
@@ -33,7 +35,7 @@ No information is discarded — everything goes into the blog. LinkedIn gets the
 
 - **`cycles/`**: The actual executed work, organized by company cycle (e.g., `cycle-01-medgenome/`). Each cycle folder contains the research drafts, audit reports, and final deliverables (both blog post and LinkedIn draft) for that specific company.
 
-## Production Workflow
+## 🔒 Internal Operations: Production Workflow
 
 ```
 Student Research (Universal Template)
