@@ -2,6 +2,15 @@
 
 Welcome to the **Inside the Industry** initiative! This directory contains the guidelines, operational framework, and outputs for evaluating and deconstructing actual biotech and bioinformatics companies in the industry.
 
+## 📖 Project Overview & How This Helps You
+Curious about the overarching vision of this initiative? Read the **[Sageloom Inside the Industry Plan](sops/Sageloom_Inside_the_Industry_Plan.md)**.
+
+This core document explains exactly how this program operates and how it benefits you as a student. By participating, you will:
+- Connect theoretical academic bioinformatics to real-world corporate applications.
+- Discover exactly how biological data, computational biology, AI, and business intersect to create successful products.
+- Gain visibility into entry-level roles, team structures, and the exact skills you need to get hired at these companies.
+- Build a public portfolio of analyses that are published on Sageloom’s platforms to boost your professional visibility.
+
 ## 🎓 For Students & Researchers
 If you are a student participating in a research cycle, you will start by understanding real companies and discovering how their scientific, technical, and business components connect. 
 
@@ -13,7 +22,7 @@ If you are a student participating in a research cycle, you will start by unders
 
 ---
 
-> 🛑 **NOTE TO STUDENTS:** The sections below detail Sageloom Analytics' internal operating machinery. You do not need to read past this point!
+> 🛑 **NOTE TO STUDENTS:** The sections below detail Sageloom Analytics' internal operating machinery. You do not need to read past this point! But feel free to explore..
 
 ## 🔒 Internal Operations: Dual-Output Model
 
